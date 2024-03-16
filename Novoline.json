@@ -111,13 +111,13 @@
     {
       "downloads": {
         "artifact": {
-          "path": "xyz/gson/2.8.9/gson-2.8.9.jar",
+          "path": "io/gson/2.8.9/gson-2.8.9.jar",
           "sha1": "9ddf7b048a8d701be231c0f4f95fd986198fd2d8",
           "size": 30973,
           "url": "https://Mxmblee.github.io/NovolineCloud/libraries/gson-2.8.9.jar"
         }
       },
-      "name": "xyz:gson:2.8.9"
+      "name": "io:gson:2.8.9"
     },
     {
       "downloads": {
