@@ -1,10 +1,10 @@
 [
     {
-        "hwid": "00-14-22-01-23-45",
-        "name": "Alice"
+        "hwid": "B3BA7-C7DD2-5E58E-06EC1-C02F1-4C5FF",
+        "name": "GR_Xpnpot"
     },
     {
-        "hwid": "00-14-22-01-23-46",
+        "hwid": "Debug",
         "name": "Bob"
     }
 ]
